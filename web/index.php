@@ -1,6 +1,6 @@
 <?php
-
-require('../vendor/autoload.php');
+echo "hello workd!";
+/* require('../vendor/autoload.php');
 
 $app = new Silex\Application();
 $app['debug'] = true;
@@ -23,3 +23,4 @@ $app->get('/', function() use($app) {
 });
 
 $app->run();
+*/
